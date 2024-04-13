@@ -6,7 +6,7 @@
         <feb-alive>
           <router-view></router-view>
         </feb-alive>
-        <Footer></Footer>
+        <Footer>Hello</Footer>
       </div>
     </section>
     <APlayer />
